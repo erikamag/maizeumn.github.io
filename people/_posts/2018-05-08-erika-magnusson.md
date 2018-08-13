@@ -3,10 +3,10 @@ layout: member
 title: Erika Magnusson
 position: PhD student
 handle: erika
-twitter:
+twitter:erikalanemag
 orcid: 
 calendar: 
-github:
+github:erikamag
 linkedin:
 email: magnu513@umn.edu
 scholar: 
