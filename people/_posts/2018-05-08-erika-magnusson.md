@@ -10,6 +10,6 @@ github:
 linkedin:
 email: magnu513@umn.edu
 scholar: 
-image: /images/people/erika-magnusson.jpg
+image: /images/people/erika-magnusson.JPG
 cv: 
 ---
